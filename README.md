@@ -1,4 +1,4 @@
-# Census Income Prediction
+# PayParity: Predicting and Addressing Inequality
 
 ## Overview
 
